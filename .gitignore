@@ -1,0 +1,3 @@
+*.hdf5
+datasets/test/
+datasets/train/
